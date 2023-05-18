@@ -5,15 +5,11 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# mindmate 질문 리스트 공유 공간!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  💡아래 요소들 클릭을 통해 최근의 질문들을 확인해보세요!
 </p>
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 <strong>Recently updated notes</strong>
 
@@ -27,6 +23,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 </ul>
 
 <style>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
   .wrapper {
     max-width: 46em;
   }
